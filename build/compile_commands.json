@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/gmate/projects/hr/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/output.dir/includes_CXX.rsp -g -o CMakeFiles\\output.dir\\src\\main.cpp.obj -c C:\\Users\\gmate\\projects\\hr\\src\\main.cpp",
+  "file": "C:/Users/gmate/projects/hr/src/main.cpp"
+},
+{
+  "directory": "C:/Users/gmate/projects/hr/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/output.dir/includes_CXX.rsp -g -o CMakeFiles\\output.dir\\src\\hr.cpp.obj -c C:\\Users\\gmate\\projects\\hr\\src\\hr.cpp",
+  "file": "C:/Users/gmate/projects/hr/src/hr.cpp"
+},
+{
+  "directory": "C:/Users/gmate/projects/hr/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/output.dir/includes_CXX.rsp -g -o CMakeFiles\\output.dir\\src\\employee.cpp.obj -c C:\\Users\\gmate\\projects\\hr\\src\\employee.cpp",
+  "file": "C:/Users/gmate/projects/hr/src/employee.cpp"
+}
+]

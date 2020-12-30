@@ -1,0 +1,3 @@
+C:/Users/gmate/projects/hr/build/CMakeFiles/output.dir
+C:/Users/gmate/projects/hr/build/CMakeFiles/edit_cache.dir
+C:/Users/gmate/projects/hr/build/CMakeFiles/rebuild_cache.dir
