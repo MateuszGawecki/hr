@@ -44,6 +44,12 @@ C:/Users/gmate/projects/hr/include/hr/employee.hpp
 except.hpp
 C:/Users/gmate/projects/hr/include/hr/except.hpp
 
+C:/Users/gmate/projects/hr/src/hr.cpp
+../include/hr/hr.hpp
+C:/Users/gmate/projects/hr/include/hr/hr.hpp
+../include/hr/except.hpp
+C:/Users/gmate/projects/hr/include/hr/except.hpp
+
 C:/Users/gmate/projects/hr/src/main.cpp
 ../include/hr/hr.hpp
 C:/Users/gmate/projects/hr/include/hr/hr.hpp

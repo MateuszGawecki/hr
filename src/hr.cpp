@@ -1,7 +1,7 @@
 #include "../include/hr/hr.hpp"
 #include "../include/hr/except.hpp"
 
-void hrms::add(employee employee,string DEPARTMENTID,int salary)
+void hrms::add(employee& employee,string DEPARTMENTID,int salary)
 {
     string tmp=employee.getid();
     

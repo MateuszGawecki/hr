@@ -21,7 +21,7 @@ class hrms
         map<string,double> zarobki; //pracownik,wyplata
 
     public:
-        void add(employee employee,string DEPARTMENTID,int salary);
+        void add(employee& employee,string DEPARTMENTID,int salary);
         void printDepartment(string departmentid);
         void changeSalary(string employeeid, double salary);
         void printSalaries();

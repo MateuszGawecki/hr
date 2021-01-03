@@ -96,6 +96,7 @@ int main()
      cout<<e.what()<<endl;
  }
 
+
 try
 {
     XXX.printDepartment("office");
@@ -131,6 +132,7 @@ catch(const std::exception& e)
 {
     cout << e.what() <<endl;
 }
+
 
 
     cout<<endl<<endl<<endl;
