@@ -21,7 +21,6 @@ class employee
   
   public:
     employee(string ID,string NAME,string SURNAME,string DEPARTMENTID,string POSITION);
-    ~employee(){cout<<"\nDestr\n";};
     void print();
     string getid();
 };
