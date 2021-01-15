@@ -170,6 +170,15 @@ try
  }
 
  try
+{
+    XXX.printDepartment("office");
+}
+catch(const std::exception& e)
+{
+    cout << e.what() <<endl;
+}
+
+ try
  {
     XXX.changeSalary("111",500);
  }

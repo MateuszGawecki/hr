@@ -13,6 +13,7 @@ using namespace std;
 class employee
 {
   private:
+  static int klucz;
     string id;
     string name;
     string surname;

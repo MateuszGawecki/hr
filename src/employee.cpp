@@ -1,8 +1,12 @@
 #include "../include/hr/employee.hpp"
 
+int employee::klucz=0;
+
 employee::employee(string ID,string NAME,string SURNAME,string DEPARTMENTID,string POSITION)
 {
-    id=ID;
+    //id=ID;
+    id=to_string(klucz);
+    klucz++;
     name=NAME;
     surname=SURNAME;
     departmentid=DEPARTMENTID;
